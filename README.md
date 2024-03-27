@@ -1,1 +1,1 @@
-typed.art site source code
+typed.art frontend source code
