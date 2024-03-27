@@ -1,0 +1,44 @@
+{
+  "tokens": [
+    {
+      "id": 4,
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. in voluptate velit esse dolore.",
+      "creator": "eren",
+      "twitter:": "erenertugrul",
+      "editions": 5,
+      "swapped": 5,
+      "price": 2,
+      "userOwn": 0
+    },
+    {
+      "id": 3,
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. in voluptate velit esse dolore.",
+      "creator": "eren",
+      "twitter:": "erenertugrul",
+      "editions": 5,
+      "swapped": 5,
+      "price": 2,
+      "userOwn": 0
+    },
+    {
+      "id": 2,
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. in voluptate velit esse dolore.",
+      "creator": "eren",
+      "twitter:": "erenertugrul",
+      "editions": 5,
+      "swapped": 5,
+      "price": 2,
+      "userOwn": 0
+    },
+    {
+      "id": 1,
+      "description": "bok.",
+      "creator": "play",
+      "twitter": "playnft",
+      "editions": 5,
+      "swapped": 0,
+      "price": 0,
+      "userOwn": 3
+    }
+  ]
+}
